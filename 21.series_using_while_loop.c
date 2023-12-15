@@ -2,7 +2,14 @@
 write a program to display following series :
 1,2,3,4, ... ... n.
 **/
-
+/**
+syntax of while loop :
+initialization;
+while(condition)             ; now, write a c program to display numbers from 1-5 using while loop
+    {statement(s);
+    increment/decrement;
+    }
+**/
 #include<stdio.h>
 int main()
 {
